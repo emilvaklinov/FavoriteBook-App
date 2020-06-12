@@ -13,6 +13,7 @@
 		48752C672493AC5E00AF98A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48752C662493AC5E00AF98A4 /* Assets.xcassets */; };
 		48752C6A2493AC5E00AF98A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48752C692493AC5E00AF98A4 /* Preview Assets.xcassets */; };
 		48752C6D2493AC5E00AF98A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48752C6B2493AC5E00AF98A4 /* LaunchScreen.storyboard */; };
+		48752C752493ACD400AF98A4 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48752C742493ACD400AF98A4 /* FavoriteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		48752C692493AC5E00AF98A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		48752C6C2493AC5E00AF98A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48752C6E2493AC5E00AF98A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48752C742493ACD400AF98A4 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				48752C602493AC5C00AF98A4 /* AppDelegate.swift */,
+				48752C742493ACD400AF98A4 /* FavoriteModel.swift */,
 				48752C622493AC5C00AF98A4 /* SceneDelegate.swift */,
 				48752C642493AC5C00AF98A4 /* ContentView.swift */,
 				48752C662493AC5E00AF98A4 /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 				48752C612493AC5C00AF98A4 /* AppDelegate.swift in Sources */,
 				48752C632493AC5C00AF98A4 /* SceneDelegate.swift in Sources */,
 				48752C652493AC5C00AF98A4 /* ContentView.swift in Sources */,
+				48752C752493ACD400AF98A4 /* FavoriteModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
