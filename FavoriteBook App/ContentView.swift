@@ -28,7 +28,7 @@ struct ContentView: View {
             
             
             
-            }.navigationBarTitle(Text("Favorite Book"))
+        }.navigationBarTitle(Text("Favorite Book"))
     }
     }
 }

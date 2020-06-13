@@ -40,4 +40,13 @@ let thor = FavoriteElements(name: "Thor", imagename: "thor", description: "No 3 
 let favoriteMovies = FavoriteModel(title: "Favorite Movies", elements: [avatar, starWars, thor])
 
 
-let myFavorites = [favoriteBands, favoriteMovies]
+//Developer
+
+let developer = FavoriteElements(name: "Developer", imagename: "emil", description: "Native Swift/iOS Developer")
+
+let oneDeveloper = FavoriteModel(title: "Developer", elements: [developer])
+
+
+let myFavorites = [favoriteBands, favoriteMovies, oneDeveloper]
+
+
